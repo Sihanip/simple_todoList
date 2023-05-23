@@ -1,0 +1,30 @@
+.checkbox {
+  position: relative;
+  float: right;
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+}
+
+.checked-item {
+  text-decoration: line-through;
+  color: red;
+}
+
+.EditIcon {
+  position: relative;
+  float: right;
+  width: 18px;
+  height: 18px;
+  padding-left: 10px;
+  color: #ffb700;
+  cursor: pointer;
+}
+
+.DeleteIcon {
+  padding-left: 10px;
+  position: relative;
+  float: right;
+  color: red;
+  cursor: pointer;
+}
